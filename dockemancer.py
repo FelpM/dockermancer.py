@@ -21,7 +21,7 @@ def executar_comando_docker(api_url, comando_docker):
         return f"Erro ao executar o comando: {str(e)}"
 
 def main():
-    print("__<<SIMPLE DOCKER MAGEMENT & CONTROLLER>>__")
+    print("__<<SIMPLE DOCKER MANAGEMENT & CONTROLLER>>__")
     api_url = input("Digite a URL da API Docker:")  # Por exemplo, http://localhost:2375
     while True:
         # Solicitar ao usuário que escolha o comando
