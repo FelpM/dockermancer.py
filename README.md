@@ -12,6 +12,7 @@
 * [Status do Projeto](#status-do-projeto)
 * [Docker](#Docker)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Vídeo demonstrativo](Video-demonstrativo)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 
@@ -30,7 +31,7 @@ O projeto foi desenvolvido diante da proposta de trabalho do professor Fábio Ca
 Um App Monitor & Manager é uma única aplicação que oferece funcionalidades para monitorar o desempenho de aplicativos, como uso de recursos, tempos de resposta e erros, ao mesmo tempo em que permite gerenciar a instalação, atualização e remoção de aplicativos em um dispositivo. Essa ferramenta combinada é útil para otimizar o desempenho e a organização dos aplicativos em um sistema, neste caso, monitorando e gerenciando um Docker.
 
 
-![monitoramento](https://github.com/FelpM/dockermancer.py/blob/main/docker-monitoring-1.png)
+![Menu](https://github.com/FelpM/dockermancer.py/blob/main/Capturar.PNG)
 
 
 
@@ -56,6 +57,12 @@ $ python3 dockermancer.py
 
 ```
 <http//ipalvo:porta>
+```
+
+* Vídeo demonstrativo
+
+```
+https://www.youtube.com/watch?v=UFoMFre9N_c
 ```
 
 
