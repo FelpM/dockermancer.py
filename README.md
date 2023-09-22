@@ -34,18 +34,13 @@ O projeto foi desenvolvido diante da proposta de trabalho do professor Fábio Ca
 Um App Monitor e Manager é uma única aplicação que oferece funcionalidades para monitorar o desempenho de aplicativos, como uso de recursos, tempos de resposta e erros, ao mesmo tempo em que permite gerenciar a instalação, atualização e remoção de aplicativos em um dispositivo. Essa ferramenta combinada é útil para otimizar o desempenho e a organização dos aplicativos em um sistema, neste caso, monitorando e gerenciando um Docker.
 
 
-![contagem](https://static.significados.com.br/foto/fibonacci2_bg.jpg)
+![monitoramento](https://github.com/FelpM/dockermancer.py/blob/main/docker-monitoring-1.png)
 
-0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2594...
 
-É possível observar que a composição é formada por números que são o resultado da soma dos
-dois anteriores:
-
-![contagem](https://user-images.githubusercontent.com/129625591/229652427-790f7379-9e6b-4bd8-ac15-50e6ee4d61eb.png)
 
 # Funcionalidades e Demonstração da Aplicação
 
-* [Explicando e demonstrando "Fibonacci.py"](https://youtu.be/WcaoXCMeOw4)
+* [Explicando e demonstrando "Dockermancer.py"]()
 
 Para executar o programa, inicie primeiro o interpretador com o comando py ou python3, no windows powershell ou no terminal do seu sistema operacional.
 
