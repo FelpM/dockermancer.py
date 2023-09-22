@@ -13,7 +13,6 @@
 * [Docker](#Docker)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Link de vídeo explicativo]()
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras-do-projeto)
 
 # Descrição do Projeto
@@ -23,7 +22,7 @@ O seguinte projeto tem como objetivo contruir App Monitor e Manager que será re
 
 # Status do Projeto
 
-O projeto foi desenvolvido diante da proposta de trabalho do professor Fábio Cabrini, como quinto checkoint da disciplina Coding For Security da turma 1TDCG da Faculdade de Adminsitração e Informatica Paulista. Aguardando aprovação do docente responsável.
+O projeto foi desenvolvido diante da proposta de trabalho do professor Fábio Cabrini, como quinto checkpoint da disciplina Coding For Security da turma 1TDCG da Faculdade de Adminsitração e Informatica Paulista. Aguardando aprovação do docente responsável.
 
 
 # App Monitor & Manager
