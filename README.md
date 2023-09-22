@@ -47,30 +47,19 @@ Para executar o programa, inicie primeiro o interpretador com o comando py ou py
 * Clone o repositório no diretório desejado
 
 ```
-$ git clone https://github.com/44SEC/contador-sequencial-fibonacci.git
+$ git clone [https://github.com/FelpM/dockermancer.git]
 ```
 
 * Execute o script com o seguinte comando
 
 ```
-$ python3 fibonacci.py
+$ python3 dockermancer.py
 ```
 
-O código vai exibir uma menssegem de boas vindas e em seguida irá solicitar que o usuários insira a quantidade de valores que deseja gerar. A seguinte mensagem será exibida: 
-
-"Insira um número para gerar a sequência de Fibonnaci:"
-
-O número minimo aceito pelo programa é 2, tendo em vista parâmetros solicitados para o desenvolvimento do trabalho. Caso o usuário insira um número menor, uma mensagem de erro será exibida e o programa voltará ou seu ponto inicial.
-
-A aplicação só aceita números inteiros, caso uma string seja inserida o programa exibirá uma mensagem de erro e retornará ao ponto inicial.
-
-Após a inserção, o programa retornará a contagem em forma de lista sem quebra de linha. A quantidade de números dentro da lista corresponde com o número informado pelo usuário. 
-
-AVISO - Para fins de segurança e preservação da capacidade de processamento de computadores convencionais, o máximo de valores gerados está limitado a 5000 valores. Caso um número maior seja inserido, uma mensagem de erro será exibida e o programa retornará ao inicio.
 
 # Tecnologias utilizadas
 
-Para realizar os cálculos e entregar ao usuário a contagem sequêncial, o grupo 44SEC optou por utilizar a liguagem Python, versão 3.11. Para a criação do código, foram utilizadas funções como "input", "list", "for", "while", "try", "except" e "print", dispensando a necessidade do uso de bibliotecas.
+Utilizamos a liguagem Python.
 
 # Pessoas Desenvolvedoras do Projeto
 
