@@ -1,4 +1,3 @@
-# TÍTULO E IMAGEM DE CAPA
 
 <h1 align="center"> Dockermancer </h1>
 
@@ -7,8 +6,7 @@
 
 # Índice 
 
-* [Título e Imagem de capa](#título-e-imagem-de-capa)
-* [Badges](#badges)
+
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-projeto)
