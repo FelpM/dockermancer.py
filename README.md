@@ -52,6 +52,12 @@ $ git clone [https://github.com/FelpM/dockermancer.git]
 $ python3 dockermancer.py
 ```
 
+* O alvo deve ser específicado com a url completa
+
+```
+<http//ipalvo:porta>
+```
+
 
 # Tecnologias utilizadas
 
